@@ -2,7 +2,7 @@
 Using Chroma DB Libraries to convert Document into vector embeddings
 
 Prerequisites:
-To follow this tutorial, you will need to have Python and Docker installed on your local machine.
+To follow this tutorial, you will need to have Python installed on your local machine.
 
 
 What is Chroma DB?
