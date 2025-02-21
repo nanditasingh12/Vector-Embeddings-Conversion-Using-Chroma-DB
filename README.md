@@ -6,6 +6,7 @@ To follow this tutorial, you will need to have Python and Docker installed on yo
 
 
 What is Chroma DB?
+
 Chroma DB is a vector database system that allows you to store, retrieve, and manage embeddings.
 It can be used in Python or JavaScript with the chromadb library for local use, or connected to a remote server running Chroma. Users can configure Chroma to persist data on disk and create collections of embeddings using unique names.
 The client object provides methods like `heartbeat()` and `reset()`.
